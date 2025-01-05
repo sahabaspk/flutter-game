@@ -1,7 +1,19 @@
 # game
+
+
+
+
+
+
+
+
+
+
+
+
 A new Flutter project.
 ## Getting Started
-![1](https://github.com/sahabaspk/flutter-game/blob/ca610aa819dcffa173aff4e10903b0da5525a916/image2.png)This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
