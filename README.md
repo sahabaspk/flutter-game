@@ -1,6 +1,7 @@
 # game
 A new Flutter project.
-<img width="279" alt="image1" src="https://github.com/user-attachments/assets/046f1f88-2b51-4636-99d9-9db0e05f3e68" />## Getting Started
+<img width="279" alt="image1" src="https://github.com/user-attachments/assets/046f1f88-2b51-4636-99d9-9db0e05f3e68" />
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
