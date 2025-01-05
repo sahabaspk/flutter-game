@@ -1,6 +1,6 @@
 # game
 A new Flutter project.
-<img width="279" alt="image1" src="https://github.com/user-attachments/assets/046f1f88-2b51-4636-99d9-9db0e05f3e68" />
+<img alt="image1" src="https://github.com/user-attachments/assets/046f1f88-2b51-4636-99d9-9db0e05f3e68" />
 ## Getting Started
 ![1](https://github.com/sahabaspk/flutter-game/blob/ca610aa819dcffa173aff4e10903b0da5525a916/image2.png)This project is a starting point for a Flutter application.
 
